@@ -17,7 +17,7 @@ const search = evt => {
         setWeather(result)
         console.log(result);
   
-        });
+        });jkfgrjgrjg
       }
     }
   const dateBuilder =(d) => {
